@@ -5,7 +5,7 @@ Independent security researcher focused on EVM smart contracts and cross-chain b
 - 🔭 **Focus:** Solidity / EVM · cross-chain bridges · DeFi protocol logic · signature & replay flaws · upgradeable (UUPS/proxy) safety
 - 🛠️ **Tooling:** Foundry (forge/cast/anvil) · Slither · Hardhat · fork & invariant testing
 - 🧪 **Method:** map every external call & trust boundary → hypothesize → build a runnable `forge test` PoC → validate → report with a concrete fix
-- 🏷️ **Profiles:** HackenProof [`@aethertale`](https://hackenproof.com/hackers/aethertale)
+- 🏷️ **Profiles:** HackenProof [`@aethertale`](https://hackenproof.com/hackers/aethertale) · Immunefi `@aethertale`
 - 📫 **Engagements:** private bug-bounty & audit work available for review under NDA
 
 ---
