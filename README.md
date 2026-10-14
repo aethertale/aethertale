@@ -7,6 +7,8 @@ bridge protocols. Evidence-first methodology: every finding ships with a runnabl
 proof-of-concept and an honest severity assessment — including honest negative
 results.
 
+*Currently — independent research on cross-chain bridge and DeFi protocol security.*
+
 ---
 
 ### Focus
